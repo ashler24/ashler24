@@ -42,7 +42,7 @@
 <br>
 
 
-<img align="left" alt="ashler's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ashler24&show_icons=true&hide_border=true" />
+<img align="left" alt="ashler's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ashler24&show_icons=true&theme=radical" />
 
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ashler24&layout=compact&theme=radical&hide=java" />
 
