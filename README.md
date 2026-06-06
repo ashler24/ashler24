@@ -1,68 +1,46 @@
-# Hi there 👋,I'm [Abhijeet!].. 
+# Hi there 👋, I'm Abhijeet Pawar! 
 
-### Who I Am & What I Do
+<p align="left">
+  <a href="https://linkedin.com/in/abhijeet-pawar-b96237130/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
-- ☯ I'm a **Developer / Thinker / Creator / Learner**
-- 🌱 Learning new things everyday.
-- 🎥 Passionate about Video making & editing.
-- 📷 Love to take photos & edit them.
-- 🚀 Science Enthusiast who loves to learn the mysteries about the Universe.
-- 👨‍💻 Full Stack developer who loves web development.
+---
 
-### Find me here 👇
+### 🚀 Who I Am & What I Do
 
-<a target="_blank" href="https://twitter.com/pawar2467">
-  <img align="left" alt="Abhijeet Pawar | Twitter" width="25px" src="https://raw.githubusercontent.com/Akshay2996/Akshay2996/master/assets/twitter.png" />
-</a>
-<a target="_blank" href="https://www.instagram.com/lone_w_olf/">
-  <img align="left" alt="Abhijeet Pawar | Instagram" width="25px" src="https://raw.githubusercontent.com/Akshay2996/Akshay2996/master/assets/instagram.png" />
-</a>
-<a target="_blank" href="https://www.linkedin.com/in/abhijeet-pawar-b96237130/">
-  <img align="left" alt="Abhijeet Pawar | LinkedIn" width="25px" src="https://raw.githubusercontent.com/Akshay2996/Akshay2996/master/assets/linkedin.png" />
-</a>
+I am a **Senior Software Engineer** who loves building highly scalable backend architectures, distributed cloud systems, and smart AI-driven applications. Beyond the code, I am a thinker, creator, and lifelong learner who balances technical logic with creative visual storytelling.
 
-<br />
+* **👨‍💻 Core Focus:** Architecting robust enterprise applications using **Java 17**, **Spring Boot**, and **Microservices**.
+* **☁️ Cloud & Data:** **AWS Certified Solutions Architect** with an affinity for **PostgreSQL**, database optimization, and event-driven engineering.
+* **🤖 Next-Gen Tech:** Actively pioneering developer velocity workflows and smart system integrations using **Generative AI** tools and **Claude Code**.
+* **🌌 Science Enthusiast:** Fascinated by astrophysics, quantum theory, and unraveling the deep mysteries of our universe.
+* **📷 Creative Eye:** Passionate about capturing moments through a lens (photography) and molding narratives via video cinematography and post-production.
 
+---
 
-### Languages & Tools:
+### 🛠️ Languages, Frameworks & Tools
 
-<img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+| Category | Technologies |
+| :--- | :--- |
+| **Backend & Core** | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=Hibernate&logoColor=white) |
+| **Databases & Event Streams** | ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) ![Kafka](https://img.shields.io/badge/Apache%20Kafka-000000?style=flat-square&logo=apachekafka&logoColor=white) |
+| **Cloud & DevOps** | ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) |
+| **Frontend Utilities** | ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) |
+| **AI Assistants & IDEs** | ![Claude AI](https://img.shields.io/badge/Claude%20AI-D97756?style=flat-square&logo=claude&logoColor=white) ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) |
 
-<img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+---
 
-<img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+### 📊 GitHub Activity & Insights
 
-<img align="left" alt="Javascript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=ashler24&show_icons=true&theme=radical&card_width=490" alt="Abhijeet's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ashler24&layout=compact&theme=radical&card_width=350" alt="Top Languages Used" />
+</p>
 
-<img align="left" alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashler24&theme=radical" alt="GitHub Streak" />
+</p>
 
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+---
 
-<img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<br>
-
-
-<img align="left" alt="ashler's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ashler24&show_icons=true&theme=radical" />
-
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ashler24&layout=compact&theme=radical&hide=java" />
-
-
-
-
-<!--
-**ashler24/ashler24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-<img src="https://github-readme-stats.vercel.app/api?username=ashler24&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
--->
-
-
-
+### 🎨 Fun Fact
+> When I am not optimizing low-latency APIs or structuring databases, I am probably framing the perfect shot or generating concept art styled after the nostalgic, whimsical aesthetics of Studio Ghibli. 🌾🎨
